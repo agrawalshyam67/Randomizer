@@ -57,7 +57,7 @@ var foods_json = [
                      { "food_name" : "French Beans",
                        "food_youtube_link" : "https://www.youtube.com/embed/qwaT8L3pzBk" 
                      },
-                     { "food_name" : "Laal Masoor - Orange Dal (High Protein)",
+                     { "food_name" : "Laal Masoor Orange",
                        "food_youtube_link" : "https://www.youtube.com/embed/qZzrSma8160" 
                      },
                      { "food_name" : "Moong Chawal",
@@ -93,7 +93,7 @@ var foods_json = [
                      { "food_name" : "Cabbbage Ki Sabji",
                        "food_youtube_link" : "https://www.youtube.com/embed/Bwa4ctUvo4w" 
                      },
-                     { "food_name" : "Roti and Paneer ki Sabzi",
+                     { "food_name" : "Roti & Instant Paneer",
                        "food_youtube_link" : "https://www.youtube.com/embed/7Kzym2aTCw8" 
                      },
                      { "food_name" : "Chole",
@@ -102,7 +102,7 @@ var foods_json = [
                      { "food_name" : "Rajma",
                        "food_youtube_link" : "https://www.youtube.com/embed/HYuf33JSEHk" 
                      },
-                     { "food_name" : "Only Onion Ki Sabji",
+                     { "food_name" : "Onion Ki Sabji",
                        "food_youtube_link" : "https://www.youtube.com/embed/xI6krFU-ZF8" 
                      },
                      { "food_name" : "Pasta",

@@ -5,8 +5,6 @@ var foods_json_stringify = JSON.stringify(foods_json);
 foods_from_json = JSON.parse(foods_json_stringify);
 function food_randomizer() {
   randomNumber = getRandomInt(0, foods_from_json.length);
-  console.log(randomNumber);
-  console.log(foods_from_json);
   document.getElementById("food_display").innerHTML = foods_from_json[randomNumber]['food_name'];
   Checkout_Recipe();
 }
